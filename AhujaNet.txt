@@ -1,0 +1,14 @@
+Number of Nodes:6
+Number of Arcs:9
+Origin:1
+Destination:6
+StartNode	EndNode		Cost
+1			2			2
+1			3			4
+2			3			1
+2			4			4
+2			5			2
+3			5			3
+4			6			2
+5			4			3
+5			6			2
