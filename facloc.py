@@ -79,6 +79,7 @@ for j in loc:
                 f.write('\n Transport %g units to customer %s' % (x[i][j].x, i))
     else:
         f.write('\n Plant %s closed!' % i)
+f.close()
 
 import networkx as nx
 import matplotlib.pyplot as plt
